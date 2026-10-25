@@ -45,7 +45,7 @@ export const Contact = () => {
         </div>
 
         <div className="flex flex-col items-center text-center">
-          <p className="font-general text-[10px] uppercase">Join Zentry</p>
+          <p className="font-general text-[10px] uppercase">Join Kairo</p>
 
           <p className="special-font font-zentry mt-10 w-full text-5xl leading-[0.9] md:text-[6rem]">
             Let&apos;s b<b>u</b>ild the

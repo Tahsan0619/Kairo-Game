@@ -20,3 +20,15 @@ dist-ssr
 *.njsproj
 *.sln
 *.sw?
+
+node_modules/
+
+vendor/
+
+.next/
+
+dist/
+
+build/
+
+.env

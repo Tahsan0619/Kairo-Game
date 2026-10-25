@@ -6,21 +6,21 @@
 body {
   width: 100dvw;
   overflow-x: hidden;
-  background-color: #dfdff0;
+  background-color: #e0f2fe;
   font-family: "General Sans", sans-serif;
 }
 
 @theme {
-  --color-blue-50: #dfdff0;
-  --color-blue-75: #dfdff2;
-  --color-blue-100: #f0f2fa;
-  --color-blue-200: #101010;
-  --color-blue-300: #4fb7dd;
+  --color-blue-50: #e0f2fe;
+  --color-blue-75: #bae6fd;
+  --color-blue-100: #f0f9ff;
+  --color-blue-200: #0B1220;
+  --color-blue-300: #a3e635;
 
-  --color-violet-300: #5724ff;
+  --color-violet-300: #A3E635;
 
-  --color-yellow-100: #8e983f;
-  --color-yellow-300: #edff66;
+  --color-yellow-100: #c2410c;
+  --color-yellow-300: #818CF8;
 
   --font-zentry: "zentry", "sans-serif";
   --font-general: "general", "sans-serif";
@@ -195,7 +195,7 @@ body {
 .three-body {
   --uib-size: 35px;
   --uib-speed: 0.8s;
-  --uib-color: #5d3fd3;
+  --uib-color: #A3E635;
   position: relative;
   display: inline-block;
   height: var(--uib-size);

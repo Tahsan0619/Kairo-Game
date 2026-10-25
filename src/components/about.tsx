@@ -31,7 +31,7 @@ export const About = () => {
     <div id="about" className="min-h-screen w-screen">
       <div className="relative mt-36 mb-8 flex flex-col items-center gap-5">
         <p className="font-general text-sm uppercase md:text-[10px]">
-          Welcome to Zentry
+          Welcome to Kairo
         </p>
 
         <AnimatedTitle containerClass="mt-5 !text-black text-center">
@@ -42,7 +42,7 @@ export const About = () => {
 
         <div className="about-subtext">
           <p>The Game of Games begins-your life, now an epic MMORPG</p>
-          <p>Zentry unites every player from countless games and platforms</p>
+          <p>Kairo unites every player from countless games and platforms</p>
         </div>
       </div>
 

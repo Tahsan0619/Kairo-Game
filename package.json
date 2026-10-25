@@ -1,5 +1,5 @@
 {
-  "name": "game-website",
+  "name": "Kairo-game",
   "private": true,
   "version": "1.0.1",
   "type": "module",
@@ -13,11 +13,11 @@
     "preview": "vite preview"
   },
   "author": {
-    "name": "Sanidhya Kumar Verma",
-    "email": "sanidhyyy@gmail.com",
-    "url": "https://github.com/sanidhyy"
+    "name": "Tahsan",
+    "email": "",
+    "url": "#"
   },
-  "description": "Modern UI/UX 3D Animated Gaming Website using React and GSAP",
+  "description": "Kairo - 3D animated gaming website by Tahsan.",
   "keywords": [
     "reactjs",
     "netlify",
@@ -44,15 +44,15 @@
     "js",
     "ts"
   ],
-  "license": "MIT",
+  "license": "CC-BY-4.0",
   "repository": {
     "type": "git",
-    "url": "https://github.com/sanidhyy/game-website.git"
+    "url": "https://github.com/Kairo-game.git"
   },
-  "homepage": "https://github.com/sanidhyy/game-website#readme",
+  "homepage": "https://github.com/Kairo-game#readme",
   "bugs": {
-    "url": "https://github.com/sanidhyy/game-website/issues",
-    "email": "sanidhyyy@gmail.com"
+    "url": "https://github.com/Kairo-game/issues",
+    "email": ""
   },
   "funding": [
     {
